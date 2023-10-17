@@ -13,5 +13,5 @@ Follow if you like❤
 Channels:
   💯
   Rubika:[join](https://l.rubika.ir/py_sinoce)
-  Github:[join](https://github.com/Sinoce68)https://github.com/Sinoce68
-  Blog:[visit](https://hsc.blogsazan.com/)https://hsc.blogsazan.com
+  Github:[join](https://github.com/Sinoce68)
+  Blog:[visit](https://hsc.blogsazan.com/)
