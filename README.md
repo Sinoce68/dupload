@@ -11,8 +11,10 @@ Screenshot after downloading the file
 Follow if you like❤
 
 Channels:
-\n
+
   💯
-  \nRubika:[join](https://l.rubika.ir/py_sinoce)
-  \nGithub:[join](https://github.com/Sinoce68)
-  \nBlog:[visit](https://hsc.blogsazan.com/)
+Rubika:[join](https://l.rubika.ir/py_sinoce)
+
+Github:[join](https://github.com/Sinoce68)
+
+Blog:[visit](https://hsc.blogsazan.com/)
