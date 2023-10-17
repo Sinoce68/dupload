@@ -12,7 +12,7 @@ Type in the terminal
 
 Then enter the address of the file you want to download and also the name of the output file
 
-"python download.py -u <URL> -o <OUTPUT>"
+"python download.py -u (URL) -o (OUTPUT)"
 
 Screenshot after downloading the file
 
